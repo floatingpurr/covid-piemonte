@@ -1,4 +1,4 @@
-name: ovid-piemonte-scraper
+name: covid-piemonte-scraper
 
 # Schedule the run
 on:
