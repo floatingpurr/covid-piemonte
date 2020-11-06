@@ -12,7 +12,7 @@ Al fine di rendere più leggibile il dato, in questo repository viene mantenuto 
 
 * [La mappa da cui provengono i dati](https://giscovid.sdp.csi.it/tiles/)
 
-* Another [repository](https://github.com/to-mg/covid-19-piemonte) che raccoglie lo storico dei dati e altre informazioni.
+* Un altro [repository](https://github.com/to-mg/covid-19-piemonte) che raccoglie lo storico dei dati e altre informazioni.
 
 * [geojson province piemontesi](https://giscovid.sdp.csi.it/tiles/data/province.geojson)
 
