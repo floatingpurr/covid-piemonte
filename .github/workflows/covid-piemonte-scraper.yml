@@ -1,4 +1,4 @@
-name: Data-scraper
+name: ovid-piemonte-scraper
 
 # Schedule the run
 on:
