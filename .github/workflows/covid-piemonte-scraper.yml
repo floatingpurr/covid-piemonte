@@ -35,8 +35,11 @@ jobs:
         run: |
           python scraper.py
 
-      - name: Commit the new report
+      - name: Commit a new report (if necessary)
+        env:
+          TZ: Europe/Rome
         run: |
+          echo "Refreshing data on: `date`"
           git config --global user.name 'Covid Piemonte Bot'
           git config --global user.email '41898282+github-actions[bot]@users.noreply.github.com'
           git commit -am "Refresh data on: `date`"
