@@ -1,9 +1,9 @@
-name: covid-piemonte-scraper
+name: piemonte-data-scraper
 
 # Schedule the run
 on:
   schedule:
-    - cron:  '*/5 * * * *'
+    - cron:  '*/10 * * * *'
 
 jobs:
   # Set the job key.
@@ -35,6 +35,13 @@ jobs:
         run: |
           python scraper.py
 
+      # set timezone
+      - name: Set timezone
+        uses: actions/set-timezone-action@v1.1
+        with:
+          imezoneLinux: "Europe/Rome"
+
+      # Commit & Push
       - name: Commit a new report (if necessary)
         env:
           TZ: Europe/Rome
