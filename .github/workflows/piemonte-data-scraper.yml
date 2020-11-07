@@ -2,6 +2,7 @@ name: piemonte-data-scraper
 
 # Schedule the run
 on:
+  workflow_dispatch:
   schedule:
     - cron:  '*/10 * * * *'
 
