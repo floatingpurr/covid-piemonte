@@ -1,4 +1,3 @@
-from datetime import datetime
 import requests
 import struct
 import re
@@ -86,7 +85,7 @@ def get_covid_data(indexes):
 
 
 
-def get_metadata(timestamp):
+def get_metadata():
     """
     Gets metadata of the retrieved collection
     """
@@ -96,7 +95,6 @@ def get_metadata(timestamp):
     time = re.search(r'\d{2}:\d{2}', meta_string)
 
     meta = [{
-        'timestamp_caricamento': timestamp, 
         'aggiornamento' : f'Dati aggiornati al {date.group()} ore {time.group()}'
     }]
 
@@ -150,15 +148,8 @@ def write_2_file(csv_file, data):
 
 
 
-    
-
-
-
 
 def main():
-    # update process started at
-    timestamp = datetime.now()
-    
 
     # get geo data (almost static throughout time, at least, I guess that...)
     geo_data = get_geo_data()
@@ -168,7 +159,7 @@ def main():
     covid_data = get_covid_data(indexes)
 
     # get metadata
-    metadata = get_metadata(timestamp)
+    metadata = get_metadata()
 
     # Data Processing
     final_data = process_data(geo_data, covid_data)
