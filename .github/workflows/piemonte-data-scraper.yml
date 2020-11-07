@@ -36,17 +36,12 @@ jobs:
         run: |
           python scraper.py
 
-      # set timezone
-      - name: Set timezone
-        uses: actions/set-timezone-action@v1.0
-        with:
-          timezoneLinux: "Europe/Rome"
-
       # Commit & Push
       - name: Commit a new report (if necessary)
         env:
           TZ: Europe/Rome
         run: |
+          export TZ=Europe/Rome
           echo "Refreshing data on: `date`"
           git config --global user.name 'Covid Piemonte Bot'
           git config --global user.email '41898282+github-actions[bot]@users.noreply.github.com'
