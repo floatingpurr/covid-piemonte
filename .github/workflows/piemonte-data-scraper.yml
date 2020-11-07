@@ -40,7 +40,7 @@ jobs:
       - name: Set timezone
         uses: actions/set-timezone-action@v1.1
         with:
-          imezoneLinux: "Europe/Rome"
+          timezoneLinux: "Europe/Rome"
 
       # Commit & Push
       - name: Commit a new report (if necessary)
