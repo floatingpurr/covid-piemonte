@@ -10,9 +10,13 @@ Attualmente l'unità di crisi Covid della Regione Piemonte rilascia i dati dei "
 
 Al fine di rendere più leggibile il dato, in questo repository viene mantenuto aggiornato [un unico file tabellare](data/covid-piemonte.csv) con l'ultima versione dei dati rilasciati (altre info nei [metadati](data/metadata.txt)).
 
-E' possibile utilizzare l'ultimo snapshot dei dati puntando a questa url:
+**E' possibile utilizzare l'ultimo snapshot dei dati puntando a questa url**:
 
 <https://raw.githubusercontent.com/floatingpurr/covid-piemonte/main/data/covid-piemonte.csv?token=ADRCJ6GIBN4IUG5RPFVI3HC7V25WM>
+
+## Stato degli aggiornamenti
+
+I dati vengono aggiornati ogni 10 minuti. Il [badge](#dati-covid-19-in-Piemonte) a inizio pagina è di colore verde se gli aggiornamenti stanno funzionando senza errori. Per ulteriori dettagli, verificare i log del [workflow di aggiornamento](https://github.com/floatingpurr/covid-piemonte/actions?query=workflow%3Apiemonte-data-scraper).
 
 ## Referenze & AoB
 
