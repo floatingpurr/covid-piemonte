@@ -165,7 +165,7 @@ def main():
     final_data = process_data(geo_data, covid_data)
 
     # Write to files
-    write_2_file("data/metadata.csv", metadata)
+    write_2_file("data/metadata.txt", metadata)
     write_2_file("data/covid-piemonte.csv", final_data)
 
 
