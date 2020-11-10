@@ -12,7 +12,7 @@ Al fine di rendere più leggibile il dato, in questo repository viene mantenuto 
 
 **E' possibile utilizzare l'ultimo snapshot dei dati puntando a questa url**:
 
-<https://raw.githubusercontent.com/floatingpurr/covid-piemonte/main/data/covid-piemonte.csv?token=ADRCJ6GIBN4IUG5RPFVI3HC7V25WM>
+<https://raw.githubusercontent.com/floatingpurr/covid-piemonte/main/data/covid-piemonte.csv>
 
 ## Stato degli aggiornamenti
 
