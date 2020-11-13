@@ -10,6 +10,8 @@ Attualmente l'unità di crisi Covid della Regione Piemonte rilascia i dati dei "
 
 Al fine di rendere più leggibile il dato, in questo repository viene mantenuto aggiornato [un unico file tabellare](data/covid-piemonte.csv) con l'ultima versione dei dati rilasciati (altre info nei [metadati](data/metadata.txt)).
 
+I dati relativi al _penultimo_ aggiornamento (tipicamente riferito al giorno precedente) sono disponibili in [data/previous](data/previous) e seguno il medesimo schema di quelli giornalieri.
+
 **E' possibile utilizzare l'ultimo snapshot dei dati puntando a questa url**:
 
 <https://raw.githubusercontent.com/floatingpurr/covid-piemonte/main/data/covid-piemonte.csv>

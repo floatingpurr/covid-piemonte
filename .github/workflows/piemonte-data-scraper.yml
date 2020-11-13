@@ -39,10 +39,17 @@ jobs:
       # Commit & Push
       - name: Commit a new report (if necessary)
         run: |
-          echo "Refreshing data on: `date`"
-          git config --global user.name 'Covid Piemonte Bot'
-          git config --global user.email '41898282+github-actions[bot]@users.noreply.github.com'
-          git commit -am "Refresh data on: `date`" || true
-          git push
+          echo "Checking data on: `date`"
+          if [ -n "$(git status --porcelain)" ]; then
+            echo "New update available";
+            cp data/{metadata.txt,covid-piemonte.csv} data/previous/
+            git config --global user.name 'Covid Piemonte Bot'
+            git config --global user.email '41898282+github-actions[bot]@users.noreply.github.com'
+            git commit -am "Refresh data on: `date`"
+            git push
+          else
+            echo "No changes to commit";
+          fi
+
         env:
           TZ: Europe/Rome
