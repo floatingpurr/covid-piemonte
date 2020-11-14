@@ -40,16 +40,17 @@ jobs:
       - name: Commit a new report (if necessary)
         run: |
           echo "Checking data on: `date`"
-          if [ -n "$(git status --porcelain)" ]; then
+          if [ cmp -s staging-covid-piemonte.csv covid-piemonte.csv ]; then
+            echo "No changes to commit";
+          else
             echo "New update available";
             cp data/{metadata.txt,covid-piemonte.csv} data/previous/
+            mv data/staging-covid-piemonte.csv data/covid-piemonte.csv
+            mv data/staging-metadata.txt data/metadata.txt
             git config --global user.name 'Covid Piemonte Bot'
             git config --global user.email '41898282+github-actions[bot]@users.noreply.github.com'
             git commit -am "Refresh data on: `date`"
             git push
-          else
-            echo "No changes to commit";
           fi
-
         env:
           TZ: Europe/Rome
