@@ -40,7 +40,7 @@ jobs:
       - name: Commit a new report (if necessary)
         run: |
           echo "Checking data on: `date`"
-          if [ cmp -s staging-covid-piemonte.csv covid-piemonte.csv ]; then
+          if cmp -s staging-covid-piemonte.csv covid-piemonte.csv ; then
             echo "No changes to commit";
           else
             echo "New update available";
