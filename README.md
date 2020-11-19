@@ -30,4 +30,6 @@ I dati vengono aggiornati ogni 10 minuti. Il [badge](#dati-covid-19-in-Piemonte)
 
 * [geojson comuni piemontesi](https://giscovid.sdp.csi.it/tiles/data/centroidi.geojson)
 
-* [centroidi.js](https://giscovid.sdp.csi.it/tiles/js/centroidi.js) (centroidi comuni piemontesi)
+[centroidi.js](https://giscovid.sdp.csi.it/tiles/js/centroidi.js) centroidi comuni piemontesi
+
+* [istat-centroidi.csv](geodata/istat-centroidi.csv) centroidi comuni piemontesi (estratto)
