@@ -19,7 +19,7 @@ I dati relativi al _penultimo_ aggiornamento (tipicamente riferito al giorno pre
 
 ## Stato degli aggiornamenti
 
-I dati vengono aggiornati ogni 10 minuti. Il [badge](#dati-covid-19-in-Piemonte) a inizio pagina è di colore verde se gli aggiornamenti stanno funzionando senza errori. Per ulteriori dettagli, verificare i log del [workflow di aggiornamento](https://github.com/floatingpurr/covid-piemonte/actions?query=workflow%3Apiemonte-data-scraper).
+I dati vengono aggiornati ogni 15 minuti. Il [badge](#dati-covid-19-in-Piemonte) a inizio pagina è di colore verde se gli aggiornamenti stanno funzionando senza errori. Per ulteriori dettagli, verificare i log del [workflow di aggiornamento](https://github.com/floatingpurr/covid-piemonte/actions?query=workflow%3Apiemonte-data-scraper).
 
 ## Referenze & AoB
 
