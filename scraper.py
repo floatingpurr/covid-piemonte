@@ -1,3 +1,4 @@
+from collections import OrderedDict
 import requests
 import struct
 import re
@@ -104,6 +105,7 @@ def get_metadata():
 def process_data(geo_data, covid_data):
     """
     Processes geo and covid data and returns the final resultset.
+    Do not change the serialized output to avoid breaking procedures that consume legacy csv data
     """
     codici_istat = covid_data['int_data']
     positivi = covid_data['float_data'][::2]
@@ -117,13 +119,13 @@ def process_data(geo_data, covid_data):
         codice_istat = str(c).zfill(6)
         comune = geo_data[codice_istat]
 
-        resulset.append({
+        resulset.append(OrderedDict({
             'comune': comune['comune'].title(),
             'codice_istat': codice_istat,
             'provincia': comune['provincia'],
             'positivi': int(p), 
             'positivi_per_1000_abitanti': float(f"{t:.2f}")
-        })
+        }))
 
     return sorted(resulset, key=lambda k: k['comune'])
 
@@ -133,25 +135,38 @@ def post_process_data(processed_data, metadata):
     """
     Processes the resultset and returns extra the resultset with extra column(s).
     """
+    post_processed_data = list()
 
     for p in processed_data:
-        p['codice_istat'] = p['codice_istat'].lstrip("0")
+
         try:
-            p['Popolazione Stimata'] = round(p['positivi'] * 1000 / p['positivi_per_1000_abitanti'])
+            pop = round(p['positivi'] * 1000 / p['positivi_per_1000_abitanti'])
         except ZeroDivisionError:
-            p['Popolazione Stimata'] = ''
-        p['aggiornamento'] = metadata[0]['aggiornamento']
+            pop = ''
+        
+        post_processed_data.append(OrderedDict({
+            'Code': p['codice_istat'].lstrip("0"),
+            'Comune': p['comune'],
+            'Provincia': p['provincia'],
+            'Positivi': p['positivi'],
+            'Positivi ogni 1000 abitanti': p['positivi_per_1000_abitanti'],
+            'Popolazione Stimata': pop,
+            'aggiornamento': metadata[0]['aggiornamento'],
+        }))
 
-    return processed_data
+    return post_processed_data
 
 
 
 
-def write_2_file(csv_file, data):
+def write_2_file(csv_file, data, headers = None):
     """
     Writes data to file
     """
-    csv_columns = data[0].keys()
+    if headers:
+        csv_columns = headers
+    else:
+        csv_columns = data[0].keys()
 
     try: 
         with open(csv_file, 'w') as csvfile:
@@ -189,7 +204,7 @@ def main():
     post_processed_data = post_process_data(final_data, metadata)
     write_2_file("data/postprocessing/Piemonte.csv", post_processed_data)
     for p in PROV.values():
-        write_2_file(f"data/postprocessing/{p}.csv", [x for x in post_processed_data if x['provincia'] == p])
+        write_2_file(f"data/postprocessing/{p}.csv", [x for x in post_processed_data if x['Provincia'] == p])
 
 
 
