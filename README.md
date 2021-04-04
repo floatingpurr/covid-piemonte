@@ -27,6 +27,8 @@ I dati vengono aggiornati ogni 15 minuti. Il [badge](#dati-covid-19-in-Piemonte)
 
 * Alcune [mappe](https://datawrapper.dwcdn.net/h7IeS) aggiornate costantemente e costruite a partire dai dai di questo repo.
 
+* Un'altra [mappa live](https://datawrapper.dwcdn.net/dgcY4) con una scala di colori alternativa
+
 * Un altro [repository](https://github.com/to-mg/covid-19-piemonte) che raccoglie lo storico dei dati e altre informazioni.
 
 * [geojson province piemontesi](https://giscovid.sdp.csi.it/tiles/data/province.geojson)
