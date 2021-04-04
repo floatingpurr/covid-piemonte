@@ -25,7 +25,7 @@ I dati vengono aggiornati ogni 15 minuti. Il [badge](#dati-covid-19-in-Piemonte)
 
 * [La mappa da cui provengono i dati](https://giscovid.sdp.csi.it/tiles/)
 
-* Alcune [mappe](https://datawrapper.dwcdn.net/h7IeS) aggiornate costantemente e costruite a partire dai dai di questo repo.
+* Alcune [mappe live](https://datawrapper.dwcdn.net/h7IeS) aggiornate costantemente e costruite a partire dai dai di questo repo.
 
 * Un'altra [mappa live](https://datawrapper.dwcdn.net/dgcY4) con una scala di colori alternativa
 
