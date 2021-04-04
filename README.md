@@ -9,7 +9,7 @@ Dati sul Covid-19 dell'unità di crisi della Regione Piemonte.
 
 Attualmente l'unità di crisi Covid della Regione Piemonte rilascia i dati dei "soggetti risultati positivi al test covid-19 che non risultano in data odierna deceduti o guariti". Questi dati sono disponibili su questa mappa: https://www.regione.piemonte.it/web/covid-19-mappa-piemonte.
 
-Al fine di rendere più leggibile il dato, in questo repository viene mantenuto aggiornato [un unico file tabellare](data/covid-piemonte.csv) con l'ultima versione dei dati rilasciati (altre info nei [metadati](data/metadata.txt)).
+Al fine di rendere più leggibile il dato, in questo repository viene mantenuto aggiornato [un unico file tabellare](data/covid-piemonte.csv) con l'ultima versione dei dati rilasciati (altre info nei [metadati](data/metadata.txt)). Questo file viene inoltre [post-processato](data/postprocessing) per clusterizzare i dati per provincia.
 
 I dati relativi al _penultimo_ aggiornamento (tipicamente riferito al giorno precedente) sono disponibili in [data/previous](data/previous) e seguono il medesimo schema di quelli giornalieri.
 
@@ -24,6 +24,8 @@ I dati vengono aggiornati ogni 15 minuti. Il [badge](#dati-covid-19-in-Piemonte)
 ## Referenze & AoB
 
 * [La mappa da cui provengono i dati](https://giscovid.sdp.csi.it/tiles/)
+
+* Alcune [mappe](https://datawrapper.dwcdn.net/h7IeS) aggiornate costantemente e costruite a partire dai dai di questo repo.
 
 * Un altro [repository](https://github.com/to-mg/covid-19-piemonte) che raccoglie lo storico dei dati e altre informazioni.
 
