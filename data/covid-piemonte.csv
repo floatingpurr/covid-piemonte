@@ -9,7 +9,7 @@ Airasca,001002,Torino,0,0.0
 Aisone,004002,Cuneo,0,0.0
 Ala Di Stura,001003,Torino,0,0.0
 Alagna Valsesia,002002,Vercelli,0,0.0
-Alba,004003,Cuneo,7,0.22
+Alba,004003,Cuneo,6,0.19
 Albano Vercellese,002003,Vercelli,0,0.0
 Albaretto Della Torre,004004,Cuneo,0,0.0
 Albera Ligure,006002,Alessandria,0,0.0
@@ -43,12 +43,12 @@ Arignano,001012,Torino,2,1.86
 Arizzano,103003,Verbano-Cusio-Ossola,0,0.0
 Armeno,003006,Novara,0,0.0
 Arola,103004,Verbano-Cusio-Ossola,0,0.0
-Arona,003008,Novara,3,0.22
+Arona,003008,Novara,4,0.29
 Arquata Scrivia,006009,Alessandria,0,0.0
 Asigliano Vercellese,002007,Vercelli,0,0.0
 Asti,005005,Asti,6,0.08
 Aurano,103005,Verbano-Cusio-Ossola,0,0.0
-Avigliana,001013,Torino,4,0.32
+Avigliana,001013,Torino,3,0.24
 Avolasca,006010,Alessandria,0,0.0
 Azeglio,001014,Torino,6,4.77
 Azzano D'Asti,005006,Asti,0,0.0
@@ -117,7 +117,7 @@ Borgiallo,001029,Torino,0,0.0
 Borgo D'Ale,002015,Vercelli,1,0.43
 Borgo San Dalmazzo,004025,Cuneo,2,0.16
 Borgo San Martino,006020,Alessandria,0,0.0
-Borgo Ticino,003025,Novara,1,0.19
+Borgo Ticino,003025,Novara,2,0.39
 Borgo Vercelli,002017,Vercelli,0,0.0
 Borgofranco D'Ivrea,001030,Torino,0,0.0
 Borgolavezzaro,003023,Novara,1,0.49
@@ -193,7 +193,7 @@ Canischio,001052,Torino,0,0.0
 Cannero Riviera,103016,Verbano-Cusio-Ossola,1,1.1
 Cannobio,103017,Verbano-Cusio-Ossola,0,0.0
 Canosio,004038,Cuneo,0,0.0
-Cantalupa,001053,Torino,2,0.76
+Cantalupa,001053,Torino,1,0.38
 Cantalupo Ligure,006028,Alessandria,0,0.0
 Cantarana,005018,Asti,0,0.0
 Cantoira,001054,Torino,0,0.0
@@ -216,7 +216,7 @@ Caresanablot,002031,Vercelli,0,0.0
 Carezzano,006032,Alessandria,0,0.0
 Carignano,001058,Torino,1,0.11
 Carisio,002032,Vercelli,0,0.0
-Carmagnola,001059,Torino,11,0.38
+Carmagnola,001059,Torino,10,0.35
 Carpeneto,006033,Alessandria,0,0.0
 Carpignano Sesia,003036,Novara,0,0.0
 Carrega Ligure,006034,Alessandria,0,0.0
@@ -228,7 +228,7 @@ Casal Cermelli,006037,Alessandria,0,0.0
 Casalbeltrame,003037,Novara,0,0.0
 Casalborgone,001060,Torino,0,0.0
 Casale Corte Cerro,103019,Verbano-Cusio-Ossola,0,0.0
-Casale Monferrato,006039,Alessandria,6,0.18
+Casale Monferrato,006039,Alessandria,5,0.15
 Casaleggio Boiro,006038,Alessandria,0,0.0
 Casaleggio Novara,003039,Novara,0,0.0
 Casalgrasso,004045,Cuneo,0,0.0
@@ -267,7 +267,7 @@ Castelletto D'Orba,006049,Alessandria,0,0.0
 Castelletto Merli,006050,Alessandria,0,0.0
 Castelletto Molina,005027,Asti,0,0.0
 Castelletto Monferrato,006051,Alessandria,2,1.33
-Castelletto Sopra Ticino,003043,Novara,3,0.3
+Castelletto Sopra Ticino,003043,Novara,2,0.2
 Castelletto Stura,004049,Cuneo,0,0.0
 Castelletto Uzzone,004050,Cuneo,0,0.0
 Castellinaldo D'Alba,004051,Cuneo,0,0.0
@@ -284,7 +284,7 @@ Castelnuovo Scrivia,006053,Alessandria,0,0.0
 Castelspina,006054,Alessandria,0,0.0
 Castiglione Falletto,004055,Cuneo,0,0.0
 Castiglione Tinella,004056,Cuneo,0,0.0
-Castiglione Torinese,001068,Torino,1,0.15
+Castiglione Torinese,001068,Torino,2,0.31
 Castino,004057,Cuneo,0,0.0
 Cavaglia',096016,Biella,0,0.0
 Cavaglietto,003044,Novara,0,0.0
@@ -319,7 +319,7 @@ Cervatto,002041,Vercelli,0,0.0
 Cervere,004065,Cuneo,1,0.44
 Cesana Torinese,001074,Torino,0,0.0
 Cesara,103022,Verbano-Cusio-Ossola,0,0.0
-Cessole,005037,Asti,1,2.58
+Cessole,005037,Asti,0,0.0
 Ceva,004066,Cuneo,1,0.18
 Cherasco,004067,Cuneo,3,0.32
 Chialamberto,001075,Torino,0,0.0
@@ -331,7 +331,7 @@ Chiomonte,001080,Torino,1,1.13
 Chiusa Di Pesio,004068,Cuneo,0,0.0
 Chiusa Di San Michele,001081,Torino,0,0.0
 Chiusano D'Asti,005038,Asti,0,0.0
-Chivasso,001082,Torino,5,0.19
+Chivasso,001082,Torino,6,0.22
 Ciconio,001083,Torino,0,0.0
 Cigliano,002042,Vercelli,1,0.23
 Ciglie',004069,Cuneo,0,0.0
@@ -387,7 +387,7 @@ Crissolo,004077,Cuneo,0,0.0
 Crodo,103026,Verbano-Cusio-Ossola,0,0.0
 Crova,002052,Vercelli,0,0.0
 Cuceglio,001096,Torino,0,0.0
-Cumiana,001097,Torino,0,0.0
+Cumiana,001097,Torino,1,0.13
 Cuneo,004078,Cuneo,1,0.02
 Cunico,005051,Asti,0,0.0
 Cuorgne',001098,Torino,0,0.0
@@ -400,7 +400,7 @@ Desana,002054,Vercelli,0,0.0
 Diano D'Alba,004080,Cuneo,1,0.28
 Divignano,003060,Novara,0,0.0
 Dogliani,004081,Cuneo,0,0.0
-Domodossola,103028,Verbano-Cusio-Ossola,1,0.06
+Domodossola,103028,Verbano-Cusio-Ossola,0,0.0
 Donato,096024,Biella,0,0.0
 Dormelletto,003062,Novara,0,0.0
 Dorzano,096025,Biella,0,0.0
@@ -447,11 +447,11 @@ Frinco,005055,Asti,0,0.0
 Front,001109,Torino,0,0.0
 Frossasco,001110,Torino,1,0.35
 Frugarolo,006075,Alessandria,0,0.0
-Fubine,006076,Alessandria,2,1.25
+Fubine,006076,Alessandria,1,0.62
 Gabiano,006077,Alessandria,0,0.0
 Gaglianico,096026,Biella,4,1.07
 Gaiola,004093,Cuneo,0,0.0
-Galliate,003068,Novara,1,0.06
+Galliate,003068,Novara,0,0.0
 Gamalero,006078,Alessandria,1,1.21
 Gambasca,004094,Cuneo,0,0.0
 Garbagna,006079,Alessandria,0,0.0
@@ -459,9 +459,9 @@ Garbagna Novarese,003069,Novara,0,0.0
 Garessio,004095,Cuneo,0,0.0
 Gargallo,003070,Novara,0,0.0
 Garzigliana,001111,Torino,0,0.0
-Gassino Torinese,001112,Torino,2,0.21
+Gassino Torinese,001112,Torino,1,0.1
 Gattico-Veruno,003166,Novara,1,0.19
-Gattinara,002061,Vercelli,3,0.38
+Gattinara,002061,Vercelli,1,0.13
 Gavi,006081,Alessandria,2,0.44
 Genola,004096,Cuneo,0,0.0
 Germagnano,001113,Torino,0,0.0
@@ -524,7 +524,7 @@ Lenta,002068,Vercelli,2,2.4
 Lequio Berria,004106,Cuneo,0,0.0
 Lequio Tanaro,004107,Cuneo,0,0.0
 Lerma,006088,Alessandria,0,0.0
-Lesa,003084,Novara,2,0.9
+Lesa,003084,Novara,1,0.45
 Lesegno,004108,Cuneo,0,0.0
 Lessolo,001132,Torino,0,0.0
 Lessona,096085,Biella,0,0.0
@@ -614,8 +614,8 @@ Monastero Di Lanzo,001155,Torino,0,0.0
 Monastero Di Vasco,004126,Cuneo,0,0.0
 Monasterolo Casotto,004127,Cuneo,0,0.0
 Monasterolo Di Savigliano,004128,Cuneo,0,0.0
-Moncalieri,001156,Torino,5,0.09
-Moncalvo,005069,Asti,14,4.89
+Moncalieri,001156,Torino,6,0.1
+Moncalvo,005069,Asti,12,4.19
 Moncenisio,001157,Torino,0,0.0
 Moncestino,006099,Alessandria,0,0.0
 Monchiero,004129,Cuneo,0,0.0
@@ -689,7 +689,7 @@ Nomaglio,001167,Torino,0,0.0
 None,001168,Torino,1,0.12
 Nonio,103048,Verbano-Cusio-Ossola,0,0.0
 Novalesa,001169,Torino,0,0.0
-Novara,003106,Novara,14,0.13
+Novara,003106,Novara,12,0.12
 Novello,004152,Cuneo,0,0.0
 Novi Ligure,006114,Alessandria,8,0.28
 Nucetto,004153,Cuneo,0,0.0
@@ -766,7 +766,7 @@ Piedicavallo,096044,Biella,0,0.0
 Piedimulera,103053,Verbano-Cusio-Ossola,0,0.0
 Pietra Marazzi,006129,Alessandria,0,0.0
 Pietraporzio,004167,Cuneo,0,0.0
-Pieve Vergonte,103054,Verbano-Cusio-Ossola,1,0.4
+Pieve Vergonte,103054,Verbano-Cusio-Ossola,0,0.0
 Pila,002096,Vercelli,0,0.0
 Pinasca,001190,Torino,0,0.0
 Pinerolo,001191,Torino,11,0.3
@@ -780,10 +780,10 @@ Piova' Massaia,005086,Asti,0,0.0
 Piozzo,004169,Cuneo,0,0.0
 Pisano,003119,Novara,0,0.0
 Piscina,001195,Torino,1,0.3
-Piverone,001196,Torino,1,0.73
-Pocapaglia,004170,Cuneo,0,0.0
+Piverone,001196,Torino,0,0.0
+Pocapaglia,004170,Cuneo,1,0.3
 Pogno,003120,Novara,0,0.0
-Poirino,001197,Torino,4,0.38
+Poirino,001197,Torino,3,0.29
 Pollone,096046,Biella,0,0.0
 Polonghera,004171,Cuneo,0,0.0
 Pomaretto,001198,Torino,0,0.0
@@ -792,7 +792,7 @@ Pombia,003121,Novara,0,0.0
 Ponderano,096047,Biella,1,0.26
 Pont-Canavese,001199,Torino,0,0.0
 Pontechianale,004172,Cuneo,0,0.0
-Pontecurone,006132,Alessandria,1,0.28
+Pontecurone,006132,Alessandria,2,0.56
 Pontestura,006133,Alessandria,0,0.0
 Ponti,006134,Alessandria,0,0.0
 Ponzano Monferrato,006135,Alessandria,0,0.0
@@ -831,7 +831,7 @@ Quaregna Cerreto,096087,Biella,0,0.0
 Quargnento,006141,Alessandria,0,0.0
 Quarna Sopra,103058,Verbano-Cusio-Ossola,0,0.0
 Quarna Sotto,103059,Verbano-Cusio-Ossola,0,0.0
-Quarona,002107,Vercelli,2,0.5
+Quarona,002107,Vercelli,1,0.25
 Quassolo,001209,Torino,0,0.0
 Quattordio,006142,Alessandria,0,0.0
 Quincinetto,001210,Torino,2,1.94
@@ -902,7 +902,7 @@ Rossana,004197,Cuneo,0,0.0
 Rosta,001228,Torino,1,0.2
 Roure,001227,Torino,0,0.0
 Rovasenda,002122,Vercelli,0,0.0
-Rubiana,001229,Torino,1,0.42
+Rubiana,001229,Torino,0,0.0
 Rueglio,001230,Torino,0,0.0
 Ruffia,004198,Cuneo,0,0.0
 Sagliano Micca,096056,Biella,0,0.0
@@ -942,7 +942,7 @@ San Gillio,001243,Torino,0,0.0
 San Giorgio Canavese,001244,Torino,3,1.17
 San Giorgio Monferrato,006153,Alessandria,0,0.0
 San Giorgio Scarampi,005098,Asti,0,0.0
-San Giorio Di Susa,001245,Torino,0,0.0
+San Giorio Di Susa,001245,Torino,1,1.03
 San Giusto Canavese,001246,Torino,0,0.0
 San Martino Alfieri,005099,Asti,0,0.0
 San Martino Canavese,001247,Torino,0,0.0
@@ -1043,7 +1043,7 @@ Toceno,103065,Verbano-Cusio-Ossola,0,0.0
 Tollegno,096068,Biella,1,0.41
 Tonco,005109,Asti,0,0.0
 Tonengo,005110,Asti,0,0.0
-Torino,001272,Torino,154,0.18
+Torino,001272,Torino,159,0.18
 Tornaco,003146,Novara,0,0.0
 Torrazza Piemonte,001273,Torino,0,0.0
 Torrazzo,096069,Biella,0,0.0
@@ -1091,9 +1091,9 @@ Valle San Nicolao,096074,Biella,0,0.0
 Vallo Torinese,001286,Torino,0,0.0
 Valloriate,004235,Cuneo,0,0.0
 Valmacca,006178,Alessandria,0,0.0
-Valperga,001287,Torino,1,0.33
+Valperga,001287,Torino,0,0.0
 Valprato Soana,001288,Torino,0,0.0
-Valstrona,103069,Verbano-Cusio-Ossola,1,0.82
+Valstrona,103069,Verbano-Cusio-Ossola,0,0.0
 Vanzone Con San Carlo,103070,Verbano-Cusio-Ossola,0,0.0
 Vaprio D'Agogna,003153,Novara,0,0.0
 Varallo,002156,Vercelli,4,0.56
@@ -1106,10 +1106,10 @@ Venaria Reale,001292,Torino,10,0.3
 Venasca,004237,Cuneo,0,0.0
 Venaus,001291,Torino,0,0.0
 Verbania,103072,Verbano-Cusio-Ossola,2,0.07
-Vercelli,002158,Vercelli,14,0.3
+Vercelli,002158,Vercelli,13,0.28
 Verduno,004238,Cuneo,0,0.0
 Vernante,004239,Cuneo,0,0.0
-Verolengo,001293,Torino,1,0.21
+Verolengo,001293,Torino,0,0.0
 Verrone,096076,Biella,1,0.8
 Verrua Savoia,001294,Torino,0,0.0
 Verzuolo,004240,Cuneo,1,0.16
@@ -1133,8 +1133,8 @@ Vigone,001299,Torino,0,0.0
 Viguzzolo,006181,Alessandria,2,0.65
 Villa Del Bosco,096078,Biella,0,0.0
 Villa San Secondo,005119,Asti,0,0.0
-Villadeati,006182,Alessandria,1,2.05
-Villadossola,103075,Verbano-Cusio-Ossola,1,0.15
+Villadeati,006182,Alessandria,0,0.0
+Villadossola,103075,Verbano-Cusio-Ossola,2,0.31
 Villafalletto,004244,Cuneo,0,0.0
 Villafranca D'Asti,005117,Asti,0,0.0
 Villafranca Piemonte,001300,Torino,0,0.0
@@ -1145,7 +1145,7 @@ Villanova Canavese,001301,Torino,0,0.0
 Villanova D'Asti,005118,Asti,0,0.0
 Villanova Mondovi',004245,Cuneo,0,0.0
 Villanova Monferrato,006185,Alessandria,0,0.0
-Villanova Solaro,004246,Cuneo,0,0.0
+Villanova Solaro,004246,Cuneo,1,1.35
 Villar Dora,001303,Torino,0,0.0
 Villar Focchiardo,001305,Torino,0,0.0
 Villar Pellice,001306,Torino,0,0.0
