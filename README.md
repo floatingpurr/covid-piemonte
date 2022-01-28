@@ -1,7 +1,7 @@
 # Dati Covid-19 in Piemonte
 
-![piemonte-data-scraper](https://github.com/floatingpurr/covid-piemonte/workflows/piemonte-data-scraper/badge.svg)
-[![GitHub commit](https://img.shields.io/github/last-commit/floatingpurr/covid-piemonte)](https://github.com/floatingpurr/covid-piemonte/commits/master)
+[![piemonte-data-scraper](https://github.com/floatingpurr/covid-piemonte/actions/workflows/piemonte-data-scraper.yml/badge.svg)](https://github.com/floatingpurr/covid-piemonte/actions/workflows/piemonte-data-scraper.yml)
+[![GitHub commit](https://img.shields.io/github/last-commit/floatingpurr/covid-piemonte)](https://github.com/floatingpurr/covid-piemonte/commits/main)
 
 Dati sul Covid-19 dell'unità di crisi della Regione Piemonte.
 
