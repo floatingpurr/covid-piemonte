@@ -1,4 +1,4 @@
-name: piemonte-data-scraper
+name: dev
 
 # Schedule the run
 on:
