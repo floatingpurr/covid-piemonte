@@ -3,6 +3,9 @@ name: dev
 # Schedule the run
 on:
   workflow_dispatch:
+  push:
+    branches:
+      - dev
 
 jobs:
   # Set the job key.
