@@ -29,8 +29,9 @@ jobs:
       # Set up Proxy
       - name: Set up Proxy
         run: |
-          apt install tor
-          systemctl start tor
+          sudo apt update
+          sudo apt install tor
+          sudo systemctl start tor
 
 
       # # Install dependencies from requirements.txt
