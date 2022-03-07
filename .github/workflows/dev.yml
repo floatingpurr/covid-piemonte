@@ -26,6 +26,13 @@ jobs:
         with:
           python-version: '3.9'
 
+      # Set up Proxy
+      - name: Set up Proxy
+        run: |
+          apt install tor
+          systemctl start tor
+
+
       # # Install dependencies from requirements.txt
       # - name: Install dependencies
       #   run: |
@@ -41,6 +48,6 @@ jobs:
       - name: Commit a new report (if necessary)
         run: |
           echo "Checking data on: `date`"
-          curl https://giscovid.sdp.csi.it/tiles/data/province.geojson
+          curl -s --socks5-hostname 127.0.0.1:9050 https://giscovid.sdp.csi.it/tiles/data/province.geojson
         env:
           TZ: Europe/Rome
