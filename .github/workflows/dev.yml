@@ -1,0 +1,43 @@
+name: piemonte-data-scraper
+
+# Schedule the run
+on:
+  workflow_dispatch:
+
+jobs:
+  # Set the job key.
+  scrape-data:
+    # Name of the Job
+    name: Scrape data
+    # Set the type of machine to run on
+    runs-on: ubuntu-latest
+
+    steps:
+      # Check out a copy of this repository on the ubuntu-latest machine
+      - name: Checkout code
+        uses: actions/checkout@v2
+
+      # Set up Python
+      - name: Set up Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: '3.9'
+
+      # # Install dependencies from requirements.txt
+      # - name: Install dependencies
+      #   run: |
+      #     python -m pip install --upgrade pip
+      #     pip install -r requirements.txt
+
+      # # Get data
+      # - name: Get data
+      #   run: |
+      #     python scraper.py
+
+      # Commit & Push
+      - name: Commit a new report (if necessary)
+        run: |
+          echo "Checking data on: `date`"
+          curl https://giscovid.sdp.csi.it/tiles/data/province.geojson
+        env:
+          TZ: Europe/Rome
