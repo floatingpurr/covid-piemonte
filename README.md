@@ -5,6 +5,10 @@
 
 Dati sul Covid-19 dell'unità di crisi della Regione Piemonte.
 
+## 📣 ⚠️ INFO
+
+L'accesso a molti siti istituzionali è stato bloccato agli IP provenienti da fuori Italia. Il sito web da cui originano questi dati segue le stesse restrizioni, bloccando l'aggiornamento automatico di questo repository. Seguiranno aggiornamenti ed eventuali workaround.
+
 ## Perché esiste questo repository
 
 Attualmente l'unità di crisi Covid della Regione Piemonte rilascia i dati dei "soggetti risultati positivi al test covid-19 che non risultano in data odierna deceduti o guariti". Questi dati sono disponibili su questa mappa: https://www.regione.piemonte.it/web/covid-19-mappa-piemonte.
