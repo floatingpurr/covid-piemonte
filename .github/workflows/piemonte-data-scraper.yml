@@ -33,7 +33,7 @@ jobs:
 
       # Get data
       - name: Get data
-        run: python src/check.py && python src/scraper.py
+        run: python src/scraper.py
         env:
           PROXY_HOST: ${{ secrets.PROXY_HOST }}
           API_USER: ${{ secrets.API_USER }}
