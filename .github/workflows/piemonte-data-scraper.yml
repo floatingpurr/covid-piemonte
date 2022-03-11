@@ -37,10 +37,9 @@ jobs:
           python src/scraper.py
           --proxy ${{ secrets.PROXY_HOST }}
           --username ${{ secrets.USERNAME }}
-          --pwd ${{ secrets.PWD }}
           --login-path ${{ secrets.LOGIN_PATH }}
           --api-path ${{ secrets.API_PATH }}
-
+          --pwd ${{ secrets.PWD }}
       # Commit & Push
       - name: Commit a new report (if necessary)
         run: |
