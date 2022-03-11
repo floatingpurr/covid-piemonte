@@ -36,8 +36,8 @@ jobs:
         run: python src/check.py && python src/scraper.py
         env:
           PROXY_HOST: ${{ secrets.PROXY_HOST }}
-          USER: ${{ secrets.USER }}
-          PASSWORD: ${{ secrets.PASSWORD }}
+          API_USER: ${{ secrets.API_USER }}
+          API_PASSWORD: ${{ secrets.API_PASSWORD }}
           LOGIN_PATH: ${{ secrets.LOGIN_PATH }}
           API_PATH: ${{ secrets.API_PATH }}
 
