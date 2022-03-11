@@ -37,7 +37,7 @@ jobs:
           python src/scraper.py
           --proxy ${{ secrets.PROXY_HOST }}
           --username ${{ secrets.USERNAME }}
-          --password ${{ secrets.PASSWORD }}
+          --pwd ${{ secrets.PASSWORD }}
           --login-path ${{ secrets.LOGIN_PATH }}
           --api-path ${{ secrets.API_PATH }}
 

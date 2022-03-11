@@ -185,13 +185,13 @@ def write_2_file(csv_file, data, headers=None):
 def main(
     proxy: str = "",
     username: str = "",
-    password: str = "",
+    pwd: str = "",
     login_path: str = "",
     api_path: str = "",
 ):
 
     if proxy:
-        jwt = get_token(proxy + login_path, username, password)
+        jwt = get_token(proxy + login_path, username, pwd)
     else:
         jwt = ""
 
