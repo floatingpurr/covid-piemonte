@@ -202,7 +202,7 @@ def main():
     covid_data = get_covid_data(indexes, PROXY_HOST + API_PATH, jwt)
 
     # get metadata
-    metadata = get_metadata()
+    metadata = get_metadata(PROXY_HOST + API_PATH, jwt)
 
     # Data Processing
     final_data = process_data(geo_data, covid_data)
