@@ -2,10 +2,15 @@ import csv
 import re
 import struct
 from collections import OrderedDict
-
-import typer
+import os
 
 from utils import fetch_data, get_token
+
+PROXY_HOST = os.environ.get('PROXY_HOST', '')
+USERNAME = os.environ.get('USER', '')
+PASSWORD = os.environ.get('PASSWORD', '')
+LOGIN_PATH = os.environ.get('LOGIN_PATH', '')
+API_PATH = os.environ.get('API_PATH', '')
 
 URLS = {
     "province": "https://giscovid.sdp.csi.it/tiles/data/province.geojson",  # not used anymore
@@ -182,25 +187,19 @@ def write_2_file(csv_file, data, headers=None):
         print("I/O error")
 
 
-def main(
-    proxy: str = "",
-    username: str = "",
-    pwd: str = "",
-    login_path: str = "",
-    api_path: str = "",
-):
+def main():
 
-    if proxy:
-        jwt = get_token(proxy + login_path, username, pwd)
+    if PROXY_HOST:
+        jwt = get_token(PROXY_HOST + LOGIN_PATH, USERNAME, PASSWORD)
     else:
         jwt = ""
 
     # get geo data (almost static throughout time, at least, I guess that...)
-    geo_data = get_geo_data(proxy + api_path, jwt)
+    geo_data = get_geo_data(PROXY_HOST + API_PATH, jwt)
 
     # get covid data
-    indexes = get_indexes(proxy + api_path, jwt)  # indexes for binary data segregation
-    covid_data = get_covid_data(indexes, proxy + api_path, jwt)
+    indexes = get_indexes(PROXY_HOST + API_PATH, jwt)  # indexes for binary data segregation
+    covid_data = get_covid_data(indexes, PROXY_HOST + API_PATH, jwt)
 
     # get metadata
     metadata = get_metadata()
@@ -223,4 +222,4 @@ def main(
 
 
 if __name__ == "__main__":
-    typer.run(main)
+    main()

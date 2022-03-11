@@ -33,13 +33,14 @@ jobs:
 
       # Get data
       - name: Get data
-        run: >
-          python src/scraper.py
-          --proxy ${{ secrets.PROXY_HOST }}
-          --username ${{ secrets.USERNAME }}
-          --login-path ${{ secrets.LOGIN_PATH }}
-          --api-path ${{ secrets.API_PATH }}
-          --pwd ${{ secrets.PWD }}
+        run: python src/scraper.py
+        env:
+          PROXY_HOST: ${{ secrets.PROXY_HOST }}
+          USER: ${{ secrets.USER }}
+          PASSWORD: ${{ secrets.PASSWORD }}
+          LOGIN_PATH: ${{ secrets.LOGIN_PATH }}
+          API_PATH: ${{ secrets.API_PATH }}
+
       # Commit & Push
       - name: Commit a new report (if necessary)
         run: |

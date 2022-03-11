@@ -1,8 +1,6 @@
 certifi==2020.12.5
 chardet==3.0.4
 charset-normalizer==2.0.12
-click==8.0.4
 idna==2.10
 requests==2.27.1
-typer==0.4.0
 urllib3==1.25.11
