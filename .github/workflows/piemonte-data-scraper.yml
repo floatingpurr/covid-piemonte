@@ -34,7 +34,7 @@ jobs:
       # Get data
       - name: Get data
         run: |
-          python scraper.py \
+          python src/scraper.py \
           --proxy ${{ secrets.PROXY_HOST }}  \
           --username ${{ secrets.USERNAME }} \
           --password ${{ secrets.PASSWORD }} \
