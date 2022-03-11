@@ -34,8 +34,12 @@ jobs:
       # Get data
       - name: Get data
         run: |
-          python scraper.py
-
+          python scraper.py \
+          --proxy ${{ secrets.PROXY_HOST }}  \
+          --username ${{ secrets.USERNAME }} \
+          --password ${{ secrets.PASSWORD }} \
+          --login-path ${{ secrets.LOGIN_PATH }} \
+          --api-path ${{ secrets.API_PATH }}
       # Commit & Push
       - name: Commit a new report (if necessary)
         run: |
