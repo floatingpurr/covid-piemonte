@@ -7,8 +7,8 @@ import os
 from utils import fetch_data, get_token
 
 PROXY_HOST = os.environ.get('PROXY_HOST', '')
-USERNAME = os.environ.get('USER', '')
-PASSWORD = os.environ.get('PASSWORD', '')
+API_USER = os.environ.get('API_USER', '')
+API_PASSWORD = os.environ.get('API_PASSWORD', '')
 LOGIN_PATH = os.environ.get('LOGIN_PATH', '')
 API_PATH = os.environ.get('API_PATH', '')
 
@@ -190,7 +190,7 @@ def write_2_file(csv_file, data, headers=None):
 def main():
 
     if PROXY_HOST:
-        jwt = get_token(PROXY_HOST + LOGIN_PATH, USERNAME, PASSWORD)
+        jwt = get_token(PROXY_HOST + LOGIN_PATH, API_USER, API_PASSWORD)
     else:
         jwt = ""
 
