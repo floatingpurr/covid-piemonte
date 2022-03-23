@@ -25,7 +25,7 @@ I dati vengono aggiornati ogni 15 minuti. Il [badge](#dati-covid-19-in-Piemonte)
 
 ## ⏩ Proxy-_ish_
 
-L'accesso a molti siti istituzionali delle PA e dei rispettivi partner è stato bloccato agli IP provenienti da fuori Italia, come per esempio gli IP utilizzati da GitHub Actions. E' accaduto probabilmente per motivi di sicurezza a seguito della crisi in Ucraina. Il sito web da cui originano questi dati è soggetto alle medesime restrizioni.
+L'accesso a molti siti istituzionali delle PA e dei rispettivi partner è stato bloccato ad alcuni IP provenienti da fuori Italia, come per esempio gli IP utilizzati da GitHub Actions. E' accaduto probabilmente per motivi di sicurezza a seguito della crisi in Ucraina e dei conseguenti attacchi informatici. Il sito web da cui originano questi dati è soggetto alle medesime restrizioni.
 
 Per garantire l'aggiornamento automatico dei dati, dall'11 marzo 2022 le richieste HTTP sono fatte transitare in Italia (Grazie a _Pietro S._, per aver messo a disposizione un proxy-_ish_ per questo progetto).
 
