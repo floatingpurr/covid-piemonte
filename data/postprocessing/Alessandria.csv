@@ -1,7 +1,7 @@
 Code,Comune,Provincia,Positivi,Positivi ogni 1000 abitanti,Popolazione Stimata,aggiornamento
 6001,Acqui Terme,Alessandria,16,0.82,19512,Dati aggiornati al 09/01/2023 ore 18:30
 6002,Albera Ligure,Alessandria,0,-9999.0,0,Dati aggiornati al 09/01/2023 ore 18:30
-6003,Alessandria,Alessandria,53,0.57,92982,Dati aggiornati al 09/01/2023 ore 18:30
+6003,Alessandria,Alessandria,54,0.58,93103,Dati aggiornati al 09/01/2023 ore 18:30
 6004,Alfiano Natta,Alessandria,1,1.28,781,Dati aggiornati al 09/01/2023 ore 18:30
 6005,Alice Bel Colle,Alessandria,0,-9999.0,0,Dati aggiornati al 09/01/2023 ore 18:30
 6192,Alluvioni Piovera,Alessandria,3,1.73,1734,Dati aggiornati al 09/01/2023 ore 18:30
@@ -36,7 +36,7 @@ Code,Comune,Provincia,Positivi,Positivi ogni 1000 abitanti,Popolazione Stimata,a
 6035,Carrosio,Alessandria,0,-9999.0,0,Dati aggiornati al 09/01/2023 ore 18:30
 6036,Cartosio,Alessandria,0,-9999.0,0,Dati aggiornati al 09/01/2023 ore 18:30
 6037,Casal Cermelli,Alessandria,0,-9999.0,0,Dati aggiornati al 09/01/2023 ore 18:30
-6039,Casale Monferrato,Alessandria,12,0.36,33333,Dati aggiornati al 09/01/2023 ore 18:30
+6039,Casale Monferrato,Alessandria,13,0.39,33333,Dati aggiornati al 09/01/2023 ore 18:30
 6038,Casaleggio Boiro,Alessandria,0,-9999.0,0,Dati aggiornati al 09/01/2023 ore 18:30
 6040,Casalnoceto,Alessandria,0,-9999.0,0,Dati aggiornati al 09/01/2023 ore 18:30
 6041,Casasco,Alessandria,0,-9999.0,0,Dati aggiornati al 09/01/2023 ore 18:30
@@ -109,7 +109,7 @@ Code,Comune,Provincia,Positivi,Positivi ogni 1000 abitanti,Popolazione Stimata,a
 6110,Morbello,Alessandria,0,-9999.0,0,Dati aggiornati al 09/01/2023 ore 18:30
 6111,Mornese,Alessandria,0,-9999.0,0,Dati aggiornati al 09/01/2023 ore 18:30
 6112,Morsasco,Alessandria,4,6.36,629,Dati aggiornati al 09/01/2023 ore 18:30
-6113,Murisengo,Alessandria,0,-9999.0,0,Dati aggiornati al 09/01/2023 ore 18:30
+6113,Murisengo,Alessandria,1,0.73,1370,Dati aggiornati al 09/01/2023 ore 18:30
 6114,Novi Ligure,Alessandria,20,0.71,28169,Dati aggiornati al 09/01/2023 ore 18:30
 6115,Occimiano,Alessandria,1,0.78,1282,Dati aggiornati al 09/01/2023 ore 18:30
 6116,Odalengo Grande,Alessandria,0,-9999.0,0,Dati aggiornati al 09/01/2023 ore 18:30
@@ -149,7 +149,7 @@ Code,Comune,Provincia,Positivi,Positivi ogni 1000 abitanti,Popolazione Stimata,a
 6151,Sale,Alessandria,18,4.45,4045,Dati aggiornati al 09/01/2023 ore 18:30
 6152,San Cristoforo,Alessandria,1,1.72,581,Dati aggiornati al 09/01/2023 ore 18:30
 6153,San Giorgio Monferrato,Alessandria,0,-9999.0,0,Dati aggiornati al 09/01/2023 ore 18:30
-6154,San Salvatore Monferrato,Alessandria,1,0.24,4167,Dati aggiornati al 09/01/2023 ore 18:30
+6154,San Salvatore Monferrato,Alessandria,2,0.47,4255,Dati aggiornati al 09/01/2023 ore 18:30
 6155,San Sebastiano Curone,Alessandria,2,3.43,583,Dati aggiornati al 09/01/2023 ore 18:30
 6156,Sant'Agata Fossili,Alessandria,2,5.0,400,Dati aggiornati al 09/01/2023 ore 18:30
 6157,Sardigliano,Alessandria,1,2.53,395,Dati aggiornati al 09/01/2023 ore 18:30
@@ -169,7 +169,7 @@ Code,Comune,Provincia,Positivi,Positivi ogni 1000 abitanti,Popolazione Stimata,a
 6171,Terruggia,Alessandria,0,-9999.0,0,Dati aggiornati al 09/01/2023 ore 18:30
 6172,Terzo,Alessandria,0,-9999.0,0,Dati aggiornati al 09/01/2023 ore 18:30
 6173,Ticineto,Alessandria,0,-9999.0,0,Dati aggiornati al 09/01/2023 ore 18:30
-6174,Tortona,Alessandria,20,0.73,27397,Dati aggiornati al 09/01/2023 ore 18:30
+6174,Tortona,Alessandria,21,0.77,27273,Dati aggiornati al 09/01/2023 ore 18:30
 6175,Treville,Alessandria,0,-9999.0,0,Dati aggiornati al 09/01/2023 ore 18:30
 6176,Trisobbio,Alessandria,0,-9999.0,0,Dati aggiornati al 09/01/2023 ore 18:30
 6177,Valenza,Alessandria,19,1.02,18627,Dati aggiornati al 09/01/2023 ore 18:30
@@ -180,7 +180,7 @@ Code,Comune,Provincia,Positivi,Positivi ogni 1000 abitanti,Popolazione Stimata,a
 6182,Villadeati,Alessandria,0,-9999.0,0,Dati aggiornati al 09/01/2023 ore 18:30
 6183,Villalvernia,Alessandria,3,3.36,893,Dati aggiornati al 09/01/2023 ore 18:30
 6184,Villamiroglio,Alessandria,0,-9999.0,0,Dati aggiornati al 09/01/2023 ore 18:30
-6185,Villanova Monferrato,Alessandria,1,0.54,1852,Dati aggiornati al 09/01/2023 ore 18:30
+6185,Villanova Monferrato,Alessandria,2,1.07,1869,Dati aggiornati al 09/01/2023 ore 18:30
 6186,Villaromagnano,Alessandria,0,-9999.0,0,Dati aggiornati al 09/01/2023 ore 18:30
 6187,Visone,Alessandria,1,0.81,1235,Dati aggiornati al 09/01/2023 ore 18:30
 6188,Volpedo,Alessandria,0,-9999.0,0,Dati aggiornati al 09/01/2023 ore 18:30

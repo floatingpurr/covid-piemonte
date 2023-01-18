@@ -96,7 +96,7 @@ Code,Comune,Provincia,Positivi,Positivi ogni 1000 abitanti,Popolazione Stimata,a
 1096,Cuceglio,Torino,0,-9999.0,0,Dati aggiornati al 09/01/2023 ore 18:30
 1097,Cumiana,Torino,6,0.76,7895,Dati aggiornati al 09/01/2023 ore 18:30
 1098,Cuorgne',Torino,1,0.1,10000,Dati aggiornati al 09/01/2023 ore 18:30
-1099,Druento,Torino,2,0.23,8696,Dati aggiornati al 09/01/2023 ore 18:30
+1099,Druento,Torino,3,0.34,8824,Dati aggiornati al 09/01/2023 ore 18:30
 1100,Exilles,Torino,0,-9999.0,0,Dati aggiornati al 09/01/2023 ore 18:30
 1101,Favria,Torino,3,0.57,5263,Dati aggiornati al 09/01/2023 ore 18:30
 1102,Feletto,Torino,0,-9999.0,0,Dati aggiornati al 09/01/2023 ore 18:30
@@ -122,12 +122,12 @@ Code,Comune,Provincia,Positivi,Positivi ogni 1000 abitanti,Popolazione Stimata,a
 1122,Inverso Pinasca,Torino,0,-9999.0,0,Dati aggiornati al 09/01/2023 ore 18:30
 1123,Isolabella,Torino,1,2.61,383,Dati aggiornati al 09/01/2023 ore 18:30
 1124,Issiglio,Torino,0,-9999.0,0,Dati aggiornati al 09/01/2023 ore 18:30
-1125,Ivrea,Torino,8,0.34,23529,Dati aggiornati al 09/01/2023 ore 18:30
+1125,Ivrea,Torino,7,0.3,23333,Dati aggiornati al 09/01/2023 ore 18:30
 1126,La Cassa,Torino,0,-9999.0,0,Dati aggiornati al 09/01/2023 ore 18:30
 1127,La Loggia,Torino,1,0.11,9091,Dati aggiornati al 09/01/2023 ore 18:30
 1128,Lanzo Torinese,Torino,2,0.4,5000,Dati aggiornati al 09/01/2023 ore 18:30
 1129,Lauriano,Torino,1,0.7,1429,Dati aggiornati al 09/01/2023 ore 18:30
-1130,Leini',Torino,10,0.61,16393,Dati aggiornati al 09/01/2023 ore 18:30
+1130,Leini',Torino,11,0.67,16418,Dati aggiornati al 09/01/2023 ore 18:30
 1131,Lemie,Torino,0,-9999.0,0,Dati aggiornati al 09/01/2023 ore 18:30
 1132,Lessolo,Torino,0,-9999.0,0,Dati aggiornati al 09/01/2023 ore 18:30
 1133,Levone,Torino,1,2.26,442,Dati aggiornati al 09/01/2023 ore 18:30
@@ -152,7 +152,7 @@ Code,Comune,Provincia,Positivi,Positivi ogni 1000 abitanti,Popolazione Stimata,a
 1153,Mombello Di Torino,Torino,0,-9999.0,0,Dati aggiornati al 09/01/2023 ore 18:30
 1154,Mompantero,Torino,2,3.08,649,Dati aggiornati al 09/01/2023 ore 18:30
 1155,Monastero Di Lanzo,Torino,0,-9999.0,0,Dati aggiornati al 09/01/2023 ore 18:30
-1156,Moncalieri,Torino,19,0.33,57576,Dati aggiornati al 09/01/2023 ore 18:30
+1156,Moncalieri,Torino,20,0.35,57143,Dati aggiornati al 09/01/2023 ore 18:30
 1157,Moncenisio,Torino,0,-9999.0,0,Dati aggiornati al 09/01/2023 ore 18:30
 1158,Montaldo Torinese,Torino,0,-9999.0,0,Dati aggiornati al 09/01/2023 ore 18:30
 1159,Montalenghe,Torino,0,-9999.0,0,Dati aggiornati al 09/01/2023 ore 18:30
@@ -210,11 +210,11 @@ Code,Comune,Provincia,Positivi,Positivi ogni 1000 abitanti,Popolazione Stimata,a
 1212,Ribordone,Torino,0,-9999.0,0,Dati aggiornati al 09/01/2023 ore 18:30
 1215,Riva Presso Chieri,Torino,2,0.42,4762,Dati aggiornati al 09/01/2023 ore 18:30
 1213,Rivalba,Torino,0,-9999.0,0,Dati aggiornati al 09/01/2023 ore 18:30
-1214,Rivalta Di Torino,Torino,16,0.8,20000,Dati aggiornati al 09/01/2023 ore 18:30
+1214,Rivalta Di Torino,Torino,17,0.85,20000,Dati aggiornati al 09/01/2023 ore 18:30
 1216,Rivara,Torino,0,-9999.0,0,Dati aggiornati al 09/01/2023 ore 18:30
 1217,Rivarolo Canavese,Torino,0,-9999.0,0,Dati aggiornati al 09/01/2023 ore 18:30
 1218,Rivarossa,Torino,1,0.63,1587,Dati aggiornati al 09/01/2023 ore 18:30
-1219,Rivoli,Torino,32,0.66,48485,Dati aggiornati al 09/01/2023 ore 18:30
+1219,Rivoli,Torino,33,0.68,48529,Dati aggiornati al 09/01/2023 ore 18:30
 1220,Robassomero,Torino,0,-9999.0,0,Dati aggiornati al 09/01/2023 ore 18:30
 1221,Rocca Canavese,Torino,3,1.75,1714,Dati aggiornati al 09/01/2023 ore 18:30
 1222,Roletto,Torino,1,0.49,2041,Dati aggiornati al 09/01/2023 ore 18:30
@@ -224,7 +224,7 @@ Code,Comune,Provincia,Positivi,Positivi ogni 1000 abitanti,Popolazione Stimata,a
 1226,Rora',Torino,0,-9999.0,0,Dati aggiornati al 09/01/2023 ore 18:30
 1228,Rosta,Torino,1,0.2,5000,Dati aggiornati al 09/01/2023 ore 18:30
 1227,Roure,Torino,2,2.51,797,Dati aggiornati al 09/01/2023 ore 18:30
-1229,Rubiana,Torino,0,-9999.0,0,Dati aggiornati al 09/01/2023 ore 18:30
+1229,Rubiana,Torino,1,0.42,2381,Dati aggiornati al 09/01/2023 ore 18:30
 1230,Rueglio,Torino,2,2.57,778,Dati aggiornati al 09/01/2023 ore 18:30
 1231,Salassa,Torino,0,-9999.0,0,Dati aggiornati al 09/01/2023 ore 18:30
 1232,Salbertrand,Torino,0,-9999.0,0,Dati aggiornati al 09/01/2023 ore 18:30
@@ -267,7 +267,7 @@ Code,Comune,Provincia,Positivi,Positivi ogni 1000 abitanti,Popolazione Stimata,a
 1269,Strambino,Torino,1,0.16,6250,Dati aggiornati al 09/01/2023 ore 18:30
 1270,Susa,Torino,3,0.48,6250,Dati aggiornati al 09/01/2023 ore 18:30
 1271,Tavagnasco,Torino,0,-9999.0,0,Dati aggiornati al 09/01/2023 ore 18:30
-1272,Torino,Torino,497,0.57,871930,Dati aggiornati al 09/01/2023 ore 18:30
+1272,Torino,Torino,500,0.57,877193,Dati aggiornati al 09/01/2023 ore 18:30
 1273,Torrazza Piemonte,Torino,0,-9999.0,0,Dati aggiornati al 09/01/2023 ore 18:30
 1274,Torre Canavese,Torino,1,1.66,602,Dati aggiornati al 09/01/2023 ore 18:30
 1275,Torre Pellice,Torino,2,0.44,4545,Dati aggiornati al 09/01/2023 ore 18:30
@@ -303,7 +303,7 @@ Code,Comune,Provincia,Positivi,Positivi ogni 1000 abitanti,Popolazione Stimata,a
 1307,Villar Perosa,Torino,4,0.99,4040,Dati aggiornati al 09/01/2023 ore 18:30
 1302,Villarbasse,Torino,2,0.58,3448,Dati aggiornati al 09/01/2023 ore 18:30
 1304,Villareggia,Torino,1,0.95,1053,Dati aggiornati al 09/01/2023 ore 18:30
-1308,Villastellone,Torino,6,1.29,4651,Dati aggiornati al 09/01/2023 ore 18:30
+1308,Villastellone,Torino,5,1.07,4673,Dati aggiornati al 09/01/2023 ore 18:30
 1309,Vinovo,Torino,2,0.13,15385,Dati aggiornati al 09/01/2023 ore 18:30
 1310,Virle Piemonte,Torino,0,-9999.0,0,Dati aggiornati al 09/01/2023 ore 18:30
 1311,Vische,Torino,0,-9999.0,0,Dati aggiornati al 09/01/2023 ore 18:30

@@ -15,7 +15,7 @@ Code,Comune,Provincia,Positivi,Positivi ogni 1000 abitanti,Popolazione Stimata,a
 6002,Albera Ligure,Alessandria,0,-9999.0,0,Dati aggiornati al 09/01/2023 ore 18:30
 1004,Albiano D'Ivrea,Torino,1,0.61,1639,Dati aggiornati al 09/01/2023 ore 18:30
 5002,Albugnano,Asti,0,-9999.0,0,Dati aggiornati al 09/01/2023 ore 18:30
-6003,Alessandria,Alessandria,53,0.57,92982,Dati aggiornati al 09/01/2023 ore 18:30
+6003,Alessandria,Alessandria,54,0.58,93103,Dati aggiornati al 09/01/2023 ore 18:30
 6004,Alfiano Natta,Alessandria,1,1.28,781,Dati aggiornati al 09/01/2023 ore 18:30
 6005,Alice Bel Colle,Alessandria,0,-9999.0,0,Dati aggiornati al 09/01/2023 ore 18:30
 2004,Alice Castello,Vercelli,1,0.39,2564,Dati aggiornati al 09/01/2023 ore 18:30
@@ -46,7 +46,7 @@ Code,Comune,Provincia,Positivi,Positivi ogni 1000 abitanti,Popolazione Stimata,a
 3008,Arona,Novara,6,0.43,13953,Dati aggiornati al 09/01/2023 ore 18:30
 6009,Arquata Scrivia,Alessandria,5,0.79,6329,Dati aggiornati al 09/01/2023 ore 18:30
 2007,Asigliano Vercellese,Vercelli,1,0.69,1449,Dati aggiornati al 09/01/2023 ore 18:30
-5005,Asti,Asti,59,0.78,75641,Dati aggiornati al 09/01/2023 ore 18:30
+5005,Asti,Asti,60,0.79,75949,Dati aggiornati al 09/01/2023 ore 18:30
 103005,Aurano,Verbano-Cusio-Ossola,0,-9999.0,0,Dati aggiornati al 09/01/2023 ore 18:30
 1013,Avigliana,Torino,2,0.16,12500,Dati aggiornati al 09/01/2023 ore 18:30
 6010,Avolasca,Alessandria,0,-9999.0,0,Dati aggiornati al 09/01/2023 ore 18:30
@@ -122,7 +122,7 @@ Code,Comune,Provincia,Positivi,Positivi ogni 1000 abitanti,Popolazione Stimata,a
 1030,Borgofranco D'Ivrea,Torino,1,0.27,3704,Dati aggiornati al 09/01/2023 ore 18:30
 3023,Borgolavezzaro,Novara,2,0.99,2020,Dati aggiornati al 09/01/2023 ore 18:30
 4024,Borgomale,Cuneo,0,-9999.0,0,Dati aggiornati al 09/01/2023 ore 18:30
-3024,Borgomanero,Novara,18,0.83,21687,Dati aggiornati al 09/01/2023 ore 18:30
+3024,Borgomanero,Novara,17,0.78,21795,Dati aggiornati al 09/01/2023 ore 18:30
 1031,Borgomasino,Torino,0,-9999.0,0,Dati aggiornati al 09/01/2023 ore 18:30
 103078,Borgomezzavalle,Verbano-Cusio-Ossola,0,-9999.0,0,Dati aggiornati al 09/01/2023 ore 18:30
 1032,Borgone Susa,Torino,5,2.26,2212,Dati aggiornati al 09/01/2023 ore 18:30
@@ -136,7 +136,7 @@ Code,Comune,Provincia,Positivi,Positivi ogni 1000 abitanti,Popolazione Stimata,a
 4027,Bossolasco,Cuneo,0,-9999.0,0,Dati aggiornati al 09/01/2023 ore 18:30
 4028,Boves,Cuneo,4,0.41,9756,Dati aggiornati al 09/01/2023 ore 18:30
 6023,Bozzole,Alessandria,1,2.99,334,Dati aggiornati al 09/01/2023 ore 18:30
-4029,Bra,Cuneo,8,0.27,29630,Dati aggiornati al 09/01/2023 ore 18:30
+4029,Bra,Cuneo,9,0.3,30000,Dati aggiornati al 09/01/2023 ore 18:30
 1034,Brandizzo,Torino,6,0.69,8696,Dati aggiornati al 09/01/2023 ore 18:30
 4030,Briaglia,Cuneo,0,-9999.0,0,Dati aggiornati al 09/01/2023 ore 18:30
 1035,Bricherasio,Torino,2,0.43,4651,Dati aggiornati al 09/01/2023 ore 18:30
@@ -228,11 +228,11 @@ Code,Comune,Provincia,Positivi,Positivi ogni 1000 abitanti,Popolazione Stimata,a
 3037,Casalbeltrame,Novara,0,-9999.0,0,Dati aggiornati al 09/01/2023 ore 18:30
 1060,Casalborgone,Torino,0,-9999.0,0,Dati aggiornati al 09/01/2023 ore 18:30
 103019,Casale Corte Cerro,Verbano-Cusio-Ossola,4,1.15,3478,Dati aggiornati al 09/01/2023 ore 18:30
-6039,Casale Monferrato,Alessandria,12,0.36,33333,Dati aggiornati al 09/01/2023 ore 18:30
+6039,Casale Monferrato,Alessandria,13,0.39,33333,Dati aggiornati al 09/01/2023 ore 18:30
 6038,Casaleggio Boiro,Alessandria,0,-9999.0,0,Dati aggiornati al 09/01/2023 ore 18:30
 3039,Casaleggio Novara,Novara,0,-9999.0,0,Dati aggiornati al 09/01/2023 ore 18:30
 4045,Casalgrasso,Cuneo,0,-9999.0,0,Dati aggiornati al 09/01/2023 ore 18:30
-3040,Casalino,Novara,0,-9999.0,0,Dati aggiornati al 09/01/2023 ore 18:30
+3040,Casalino,Novara,1,0.66,1515,Dati aggiornati al 09/01/2023 ore 18:30
 6040,Casalnoceto,Alessandria,0,-9999.0,0,Dati aggiornati al 09/01/2023 ore 18:30
 3041,Casalvolone,Novara,0,-9999.0,0,Dati aggiornati al 09/01/2023 ore 18:30
 2033,Casanova Elvo,Vercelli,1,4.48,223,Dati aggiornati al 09/01/2023 ore 18:30
@@ -400,12 +400,12 @@ Code,Comune,Provincia,Positivi,Positivi ogni 1000 abitanti,Popolazione Stimata,a
 4080,Diano D'Alba,Cuneo,0,-9999.0,0,Dati aggiornati al 09/01/2023 ore 18:30
 3060,Divignano,Novara,2,1.41,1418,Dati aggiornati al 09/01/2023 ore 18:30
 4081,Dogliani,Cuneo,0,-9999.0,0,Dati aggiornati al 09/01/2023 ore 18:30
-103028,Domodossola,Verbano-Cusio-Ossola,11,0.61,18033,Dati aggiornati al 09/01/2023 ore 18:30
+103028,Domodossola,Verbano-Cusio-Ossola,10,0.55,18182,Dati aggiornati al 09/01/2023 ore 18:30
 96024,Donato,Biella,1,1.39,719,Dati aggiornati al 09/01/2023 ore 18:30
 3062,Dormelletto,Novara,1,0.39,2564,Dati aggiornati al 09/01/2023 ore 18:30
 96025,Dorzano,Biella,1,1.88,532,Dati aggiornati al 09/01/2023 ore 18:30
 4082,Dronero,Cuneo,1,0.14,7143,Dati aggiornati al 09/01/2023 ore 18:30
-1099,Druento,Torino,2,0.23,8696,Dati aggiornati al 09/01/2023 ore 18:30
+1099,Druento,Torino,3,0.34,8824,Dati aggiornati al 09/01/2023 ore 18:30
 103029,Druogno,Verbano-Cusio-Ossola,0,-9999.0,0,Dati aggiornati al 09/01/2023 ore 18:30
 5052,Dusino San Michele,Asti,0,-9999.0,0,Dati aggiornati al 09/01/2023 ore 18:30
 4083,Elva,Cuneo,0,-9999.0,0,Dati aggiornati al 09/01/2023 ore 18:30
@@ -482,7 +482,7 @@ Code,Comune,Provincia,Positivi,Positivi ogni 1000 abitanti,Popolazione Stimata,a
 96028,Graglia,Biella,4,2.64,1515,Dati aggiornati al 09/01/2023 ore 18:30
 5056,Grana,Asti,4,6.72,595,Dati aggiornati al 09/01/2023 ore 18:30
 3077,Granozzo Con Monticello,Novara,2,1.45,1379,Dati aggiornati al 09/01/2023 ore 18:30
-103035,Gravellona Toce,Verbano-Cusio-Ossola,3,0.38,7895,Dati aggiornati al 09/01/2023 ore 18:30
+103035,Gravellona Toce,Verbano-Cusio-Ossola,4,0.51,7843,Dati aggiornati al 09/01/2023 ore 18:30
 1117,Gravere,Torino,1,1.48,676,Dati aggiornati al 09/01/2023 ore 18:30
 5057,Grazzano Badoglio,Asti,0,-9999.0,0,Dati aggiornati al 09/01/2023 ore 18:30
 2065,Greggio,Vercelli,0,-9999.0,0,Dati aggiornati al 09/01/2023 ore 18:30
@@ -509,7 +509,7 @@ Code,Comune,Provincia,Positivi,Positivi ogni 1000 abitanti,Popolazione Stimata,a
 6087,Isola Sant'Antonio,Alessandria,2,2.92,685,Dati aggiornati al 09/01/2023 ore 18:30
 1123,Isolabella,Torino,1,2.61,383,Dati aggiornati al 09/01/2023 ore 18:30
 1124,Issiglio,Torino,0,-9999.0,0,Dati aggiornati al 09/01/2023 ore 18:30
-1125,Ivrea,Torino,8,0.34,23529,Dati aggiornati al 09/01/2023 ore 18:30
+1125,Ivrea,Torino,7,0.3,23333,Dati aggiornati al 09/01/2023 ore 18:30
 1126,La Cassa,Torino,0,-9999.0,0,Dati aggiornati al 09/01/2023 ore 18:30
 1127,La Loggia,Torino,1,0.11,9091,Dati aggiornati al 09/01/2023 ore 18:30
 4105,La Morra,Cuneo,0,-9999.0,0,Dati aggiornati al 09/01/2023 ore 18:30
@@ -518,7 +518,7 @@ Code,Comune,Provincia,Positivi,Positivi ogni 1000 abitanti,Popolazione Stimata,a
 3083,Landiona,Novara,0,-9999.0,0,Dati aggiornati al 09/01/2023 ore 18:30
 1128,Lanzo Torinese,Torino,2,0.4,5000,Dati aggiornati al 09/01/2023 ore 18:30
 1129,Lauriano,Torino,1,0.7,1429,Dati aggiornati al 09/01/2023 ore 18:30
-1130,Leini',Torino,10,0.61,16393,Dati aggiornati al 09/01/2023 ore 18:30
+1130,Leini',Torino,11,0.67,16418,Dati aggiornati al 09/01/2023 ore 18:30
 1131,Lemie,Torino,0,-9999.0,0,Dati aggiornati al 09/01/2023 ore 18:30
 2068,Lenta,Vercelli,0,-9999.0,0,Dati aggiornati al 09/01/2023 ore 18:30
 4106,Lequio Berria,Cuneo,0,-9999.0,0,Dati aggiornati al 09/01/2023 ore 18:30
@@ -549,7 +549,7 @@ Code,Comune,Provincia,Positivi,Positivi ogni 1000 abitanti,Popolazione Stimata,a
 4112,Macra,Cuneo,0,-9999.0,0,Dati aggiornati al 09/01/2023 ore 18:30
 103039,Macugnaga,Verbano-Cusio-Ossola,0,-9999.0,0,Dati aggiornati al 09/01/2023 ore 18:30
 103040,Madonna Del Sasso,Verbano-Cusio-Ossola,1,2.47,405,Dati aggiornati al 09/01/2023 ore 18:30
-3088,Maggiora,Novara,0,-9999.0,0,Dati aggiornati al 09/01/2023 ore 18:30
+3088,Maggiora,Novara,1,0.6,1667,Dati aggiornati al 09/01/2023 ore 18:30
 4113,Magliano Alfieri,Cuneo,0,-9999.0,0,Dati aggiornati al 09/01/2023 ore 18:30
 4114,Magliano Alpi,Cuneo,0,-9999.0,0,Dati aggiornati al 09/01/2023 ore 18:30
 1143,Maglione,Torino,0,-9999.0,0,Dati aggiornati al 09/01/2023 ore 18:30
@@ -614,7 +614,7 @@ Code,Comune,Provincia,Positivi,Positivi ogni 1000 abitanti,Popolazione Stimata,a
 4126,Monastero Di Vasco,Cuneo,0,-9999.0,0,Dati aggiornati al 09/01/2023 ore 18:30
 4127,Monasterolo Casotto,Cuneo,0,-9999.0,0,Dati aggiornati al 09/01/2023 ore 18:30
 4128,Monasterolo Di Savigliano,Cuneo,0,-9999.0,0,Dati aggiornati al 09/01/2023 ore 18:30
-1156,Moncalieri,Torino,19,0.33,57576,Dati aggiornati al 09/01/2023 ore 18:30
+1156,Moncalieri,Torino,20,0.35,57143,Dati aggiornati al 09/01/2023 ore 18:30
 5069,Moncalvo,Asti,3,1.05,2857,Dati aggiornati al 09/01/2023 ore 18:30
 1157,Moncenisio,Torino,0,-9999.0,0,Dati aggiornati al 09/01/2023 ore 18:30
 6099,Moncestino,Alessandria,0,-9999.0,0,Dati aggiornati al 09/01/2023 ore 18:30
@@ -671,25 +671,25 @@ Code,Comune,Provincia,Positivi,Positivi ogni 1000 abitanti,Popolazione Stimata,a
 96037,Mottalciata,Biella,0,-9999.0,0,Dati aggiornati al 09/01/2023 ore 18:30
 4145,Murazzano,Cuneo,1,1.2,833,Dati aggiornati al 09/01/2023 ore 18:30
 4146,Murello,Cuneo,0,-9999.0,0,Dati aggiornati al 09/01/2023 ore 18:30
-6113,Murisengo,Alessandria,0,-9999.0,0,Dati aggiornati al 09/01/2023 ore 18:30
+6113,Murisengo,Alessandria,1,0.73,1370,Dati aggiornati al 09/01/2023 ore 18:30
 96038,Muzzano,Biella,0,-9999.0,0,Dati aggiornati al 09/01/2023 ore 18:30
 4147,Narzole,Cuneo,0,-9999.0,0,Dati aggiornati al 09/01/2023 ore 18:30
-3103,Nebbiuno,Novara,0,-9999.0,0,Dati aggiornati al 09/01/2023 ore 18:30
-4148,Neive,Cuneo,1,0.29,3448,Dati aggiornati al 09/01/2023 ore 18:30
+3103,Nebbiuno,Novara,1,0.55,1818,Dati aggiornati al 09/01/2023 ore 18:30
+4148,Neive,Cuneo,2,0.58,3448,Dati aggiornati al 09/01/2023 ore 18:30
 96039,Netro,Biella,1,1.03,971,Dati aggiornati al 09/01/2023 ore 18:30
 4149,Neviglie,Cuneo,0,-9999.0,0,Dati aggiornati al 09/01/2023 ore 18:30
 3104,Nibbiola,Novara,0,-9999.0,0,Dati aggiornati al 09/01/2023 ore 18:30
 1164,Nichelino,Torino,33,0.69,47826,Dati aggiornati al 09/01/2023 ore 18:30
 4150,Niella Belbo,Cuneo,0,-9999.0,0,Dati aggiornati al 09/01/2023 ore 18:30
 4151,Niella Tanaro,Cuneo,1,0.99,1010,Dati aggiornati al 09/01/2023 ore 18:30
-5080,Nizza Monferrato,Asti,3,0.29,10345,Dati aggiornati al 09/01/2023 ore 18:30
+5080,Nizza Monferrato,Asti,4,0.39,10256,Dati aggiornati al 09/01/2023 ore 18:30
 1165,Noasca,Torino,0,-9999.0,0,Dati aggiornati al 09/01/2023 ore 18:30
 1166,Nole,Torino,2,0.29,6897,Dati aggiornati al 09/01/2023 ore 18:30
 1167,Nomaglio,Torino,0,-9999.0,0,Dati aggiornati al 09/01/2023 ore 18:30
 1168,None,Torino,8,1.0,8000,Dati aggiornati al 09/01/2023 ore 18:30
 103048,Nonio,Verbano-Cusio-Ossola,1,1.16,862,Dati aggiornati al 09/01/2023 ore 18:30
 1169,Novalesa,Torino,0,-9999.0,0,Dati aggiornati al 09/01/2023 ore 18:30
-3106,Novara,Novara,70,0.67,104478,Dati aggiornati al 09/01/2023 ore 18:30
+3106,Novara,Novara,73,0.7,104286,Dati aggiornati al 09/01/2023 ore 18:30
 4152,Novello,Cuneo,2,2.03,985,Dati aggiornati al 09/01/2023 ore 18:30
 6114,Novi Ligure,Alessandria,20,0.71,28169,Dati aggiornati al 09/01/2023 ore 18:30
 4153,Nucetto,Cuneo,0,-9999.0,0,Dati aggiornati al 09/01/2023 ore 18:30
@@ -797,7 +797,7 @@ Code,Comune,Provincia,Positivi,Positivi ogni 1000 abitanti,Popolazione Stimata,a
 6134,Ponti,Alessandria,0,-9999.0,0,Dati aggiornati al 09/01/2023 ore 18:30
 6135,Ponzano Monferrato,Alessandria,0,-9999.0,0,Dati aggiornati al 09/01/2023 ore 18:30
 6136,Ponzone,Alessandria,1,0.99,1010,Dati aggiornati al 09/01/2023 ore 18:30
-5087,Portacomaro,Asti,2,0.99,2020,Dati aggiornati al 09/01/2023 ore 18:30
+5087,Portacomaro,Asti,3,1.48,2027,Dati aggiornati al 09/01/2023 ore 18:30
 1200,Porte,Torino,2,1.93,1036,Dati aggiornati al 09/01/2023 ore 18:30
 96048,Portula,Biella,0,-9999.0,0,Dati aggiornati al 09/01/2023 ore 18:30
 2102,Postua,Vercelli,0,-9999.0,0,Dati aggiornati al 09/01/2023 ore 18:30
@@ -852,13 +852,13 @@ Code,Comune,Provincia,Positivi,Positivi ogni 1000 abitanti,Popolazione Stimata,a
 1215,Riva Presso Chieri,Torino,2,0.42,4762,Dati aggiornati al 09/01/2023 ore 18:30
 1213,Rivalba,Torino,0,-9999.0,0,Dati aggiornati al 09/01/2023 ore 18:30
 6144,Rivalta Bormida,Alessandria,1,0.71,1408,Dati aggiornati al 09/01/2023 ore 18:30
-1214,Rivalta Di Torino,Torino,16,0.8,20000,Dati aggiornati al 09/01/2023 ore 18:30
+1214,Rivalta Di Torino,Torino,17,0.85,20000,Dati aggiornati al 09/01/2023 ore 18:30
 1216,Rivara,Torino,0,-9999.0,0,Dati aggiornati al 09/01/2023 ore 18:30
 1217,Rivarolo Canavese,Torino,0,-9999.0,0,Dati aggiornati al 09/01/2023 ore 18:30
 6145,Rivarone,Alessandria,1,2.45,408,Dati aggiornati al 09/01/2023 ore 18:30
 1218,Rivarossa,Torino,1,0.63,1587,Dati aggiornati al 09/01/2023 ore 18:30
 2115,Rive,Vercelli,0,-9999.0,0,Dati aggiornati al 09/01/2023 ore 18:30
-1219,Rivoli,Torino,32,0.66,48485,Dati aggiornati al 09/01/2023 ore 18:30
+1219,Rivoli,Torino,33,0.68,48529,Dati aggiornati al 09/01/2023 ore 18:30
 4183,Roaschia,Cuneo,0,-9999.0,0,Dati aggiornati al 09/01/2023 ore 18:30
 4184,Roascio,Cuneo,0,-9999.0,0,Dati aggiornati al 09/01/2023 ore 18:30
 2116,Roasio,Vercelli,4,1.71,2339,Dati aggiornati al 09/01/2023 ore 18:30
@@ -902,7 +902,7 @@ Code,Comune,Provincia,Positivi,Positivi ogni 1000 abitanti,Popolazione Stimata,a
 1228,Rosta,Torino,1,0.2,5000,Dati aggiornati al 09/01/2023 ore 18:30
 1227,Roure,Torino,2,2.51,797,Dati aggiornati al 09/01/2023 ore 18:30
 2122,Rovasenda,Vercelli,0,-9999.0,0,Dati aggiornati al 09/01/2023 ore 18:30
-1229,Rubiana,Torino,0,-9999.0,0,Dati aggiornati al 09/01/2023 ore 18:30
+1229,Rubiana,Torino,1,0.42,2381,Dati aggiornati al 09/01/2023 ore 18:30
 1230,Rueglio,Torino,2,2.57,778,Dati aggiornati al 09/01/2023 ore 18:30
 4198,Ruffia,Cuneo,0,-9999.0,0,Dati aggiornati al 09/01/2023 ore 18:30
 96056,Sagliano Micca,Biella,1,0.62,1613,Dati aggiornati al 09/01/2023 ore 18:30
@@ -957,7 +957,7 @@ Code,Comune,Provincia,Positivi,Positivi ogni 1000 abitanti,Popolazione Stimata,a
 1250,San Pietro Val Lemina,Torino,1,0.71,1408,Dati aggiornati al 09/01/2023 ore 18:30
 1251,San Ponso,Torino,0,-9999.0,0,Dati aggiornati al 09/01/2023 ore 18:30
 1252,San Raffaele Cimena,Torino,0,-9999.0,0,Dati aggiornati al 09/01/2023 ore 18:30
-6154,San Salvatore Monferrato,Alessandria,1,0.24,4167,Dati aggiornati al 09/01/2023 ore 18:30
+6154,San Salvatore Monferrato,Alessandria,2,0.47,4255,Dati aggiornati al 09/01/2023 ore 18:30
 6155,San Sebastiano Curone,Alessandria,2,3.43,583,Dati aggiornati al 09/01/2023 ore 18:30
 1253,San Sebastiano Da Po,Torino,3,1.55,1935,Dati aggiornati al 09/01/2023 ore 18:30
 1254,San Secondo Di Pinerolo,Torino,3,0.83,3614,Dati aggiornati al 09/01/2023 ore 18:30
@@ -994,7 +994,7 @@ Code,Comune,Provincia,Positivi,Positivi ogni 1000 abitanti,Popolazione Stimata,a
 4219,Serravalle Langhe,Cuneo,0,-9999.0,0,Dati aggiornati al 09/01/2023 ore 18:30
 6160,Serravalle Scrivia,Alessandria,1,0.17,5882,Dati aggiornati al 09/01/2023 ore 18:30
 2137,Serravalle Sesia,Vercelli,3,0.61,4918,Dati aggiornati al 09/01/2023 ore 18:30
-5105,Sessame,Asti,1,3.8,263,Dati aggiornati al 09/01/2023 ore 18:30
+5105,Sessame,Asti,2,7.6,263,Dati aggiornati al 09/01/2023 ore 18:30
 1263,Sestriere,Torino,0,-9999.0,0,Dati aggiornati al 09/01/2023 ore 18:30
 5106,Settime,Asti,1,1.82,549,Dati aggiornati al 09/01/2023 ore 18:30
 1264,Settimo Rottaro,Torino,0,-9999.0,0,Dati aggiornati al 09/01/2023 ore 18:30
@@ -1043,7 +1043,7 @@ Code,Comune,Provincia,Positivi,Positivi ogni 1000 abitanti,Popolazione Stimata,a
 96068,Tollegno,Biella,1,0.41,2439,Dati aggiornati al 09/01/2023 ore 18:30
 5109,Tonco,Asti,1,1.24,806,Dati aggiornati al 09/01/2023 ore 18:30
 5110,Tonengo,Asti,0,-9999.0,0,Dati aggiornati al 09/01/2023 ore 18:30
-1272,Torino,Torino,497,0.57,871930,Dati aggiornati al 09/01/2023 ore 18:30
+1272,Torino,Torino,500,0.57,877193,Dati aggiornati al 09/01/2023 ore 18:30
 3146,Tornaco,Novara,1,1.07,935,Dati aggiornati al 09/01/2023 ore 18:30
 1273,Torrazza Piemonte,Torino,0,-9999.0,0,Dati aggiornati al 09/01/2023 ore 18:30
 96069,Torrazzo,Biella,0,-9999.0,0,Dati aggiornati al 09/01/2023 ore 18:30
@@ -1053,13 +1053,13 @@ Code,Comune,Provincia,Positivi,Positivi ogni 1000 abitanti,Popolazione Stimata,a
 1275,Torre Pellice,Torino,2,0.44,4545,Dati aggiornati al 09/01/2023 ore 18:30
 4228,Torre San Giorgio,Cuneo,0,-9999.0,0,Dati aggiornati al 09/01/2023 ore 18:30
 4229,Torresina,Cuneo,0,-9999.0,0,Dati aggiornati al 09/01/2023 ore 18:30
-6174,Tortona,Alessandria,20,0.73,27397,Dati aggiornati al 09/01/2023 ore 18:30
+6174,Tortona,Alessandria,21,0.77,27273,Dati aggiornati al 09/01/2023 ore 18:30
 1276,Trana,Torino,2,0.52,3846,Dati aggiornati al 09/01/2023 ore 18:30
 103066,Trarego Viggiona,Verbano-Cusio-Ossola,0,-9999.0,0,Dati aggiornati al 09/01/2023 ore 18:30
 103067,Trasquera,Verbano-Cusio-Ossola,0,-9999.0,0,Dati aggiornati al 09/01/2023 ore 18:30
 1278,Traversella,Torino,0,-9999.0,0,Dati aggiornati al 09/01/2023 ore 18:30
 1279,Traves,Torino,0,-9999.0,0,Dati aggiornati al 09/01/2023 ore 18:30
-3149,Trecate,Novara,5,0.24,20833,Dati aggiornati al 09/01/2023 ore 18:30
+3149,Trecate,Novara,6,0.29,20690,Dati aggiornati al 09/01/2023 ore 18:30
 4230,Treiso,Cuneo,0,-9999.0,0,Dati aggiornati al 09/01/2023 ore 18:30
 6175,Treville,Alessandria,0,-9999.0,0,Dati aggiornati al 09/01/2023 ore 18:30
 4231,Trezzo Tinella,Cuneo,0,-9999.0,0,Dati aggiornati al 09/01/2023 ore 18:30
@@ -1106,7 +1106,7 @@ Code,Comune,Provincia,Positivi,Positivi ogni 1000 abitanti,Popolazione Stimata,a
 4237,Venasca,Cuneo,0,-9999.0,0,Dati aggiornati al 09/01/2023 ore 18:30
 1291,Venaus,Torino,1,1.13,885,Dati aggiornati al 09/01/2023 ore 18:30
 103072,Verbania,Verbano-Cusio-Ossola,21,0.69,30435,Dati aggiornati al 09/01/2023 ore 18:30
-2158,Vercelli,Vercelli,16,0.35,45714,Dati aggiornati al 09/01/2023 ore 18:30
+2158,Vercelli,Vercelli,19,0.41,46341,Dati aggiornati al 09/01/2023 ore 18:30
 4238,Verduno,Cuneo,0,-9999.0,0,Dati aggiornati al 09/01/2023 ore 18:30
 4239,Vernante,Cuneo,0,-9999.0,0,Dati aggiornati al 09/01/2023 ore 18:30
 1293,Verolengo,Torino,1,0.21,4762,Dati aggiornati al 09/01/2023 ore 18:30
@@ -1114,7 +1114,7 @@ Code,Comune,Provincia,Positivi,Positivi ogni 1000 abitanti,Popolazione Stimata,a
 1294,Verrua Savoia,Torino,0,-9999.0,0,Dati aggiornati al 09/01/2023 ore 18:30
 4240,Verzuolo,Cuneo,1,0.16,6250,Dati aggiornati al 09/01/2023 ore 18:30
 5113,Vesime,Asti,0,-9999.0,0,Dati aggiornati al 09/01/2023 ore 18:30
-3158,Vespolate,Novara,4,1.95,2051,Dati aggiornati al 09/01/2023 ore 18:30
+3158,Vespolate,Novara,5,2.44,2049,Dati aggiornati al 09/01/2023 ore 18:30
 1295,Vestigne',Torino,1,1.26,794,Dati aggiornati al 09/01/2023 ore 18:30
 4241,Vezza D'Alba,Cuneo,1,0.44,2273,Dati aggiornati al 09/01/2023 ore 18:30
 5114,Viale,Asti,0,-9999.0,0,Dati aggiornati al 09/01/2023 ore 18:30
@@ -1144,7 +1144,7 @@ Code,Comune,Provincia,Positivi,Positivi ogni 1000 abitanti,Popolazione Stimata,a
 1301,Villanova Canavese,Torino,0,-9999.0,0,Dati aggiornati al 09/01/2023 ore 18:30
 5118,Villanova D'Asti,Asti,3,0.53,5660,Dati aggiornati al 09/01/2023 ore 18:30
 4245,Villanova Mondovi',Cuneo,1,0.17,5882,Dati aggiornati al 09/01/2023 ore 18:30
-6185,Villanova Monferrato,Alessandria,1,0.54,1852,Dati aggiornati al 09/01/2023 ore 18:30
+6185,Villanova Monferrato,Alessandria,2,1.07,1869,Dati aggiornati al 09/01/2023 ore 18:30
 4246,Villanova Solaro,Cuneo,0,-9999.0,0,Dati aggiornati al 09/01/2023 ore 18:30
 1303,Villar Dora,Torino,1,0.35,2857,Dati aggiornati al 09/01/2023 ore 18:30
 1305,Villar Focchiardo,Torino,4,2.03,1970,Dati aggiornati al 09/01/2023 ore 18:30
@@ -1155,7 +1155,7 @@ Code,Comune,Provincia,Positivi,Positivi ogni 1000 abitanti,Popolazione Stimata,a
 2163,Villarboit,Vercelli,1,2.34,427,Dati aggiornati al 09/01/2023 ore 18:30
 1304,Villareggia,Torino,1,0.95,1053,Dati aggiornati al 09/01/2023 ore 18:30
 6186,Villaromagnano,Alessandria,0,-9999.0,0,Dati aggiornati al 09/01/2023 ore 18:30
-1308,Villastellone,Torino,6,1.29,4651,Dati aggiornati al 09/01/2023 ore 18:30
+1308,Villastellone,Torino,5,1.07,4673,Dati aggiornati al 09/01/2023 ore 18:30
 2164,Villata,Vercelli,0,-9999.0,0,Dati aggiornati al 09/01/2023 ore 18:30
 103076,Villette,Verbano-Cusio-Ossola,0,-9999.0,0,Dati aggiornati al 09/01/2023 ore 18:30
 4248,Vinadio,Cuneo,1,1.65,606,Dati aggiornati al 09/01/2023 ore 18:30
