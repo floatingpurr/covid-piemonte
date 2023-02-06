@@ -1,3 +1,7 @@
+# Chiusura del servizio
+
+Questo servizio è sospeso.
+
 # Dati Covid-19 in Piemonte
 
 [![piemonte-data-scraper](https://github.com/floatingpurr/covid-piemonte/actions/workflows/piemonte-data-scraper.yml/badge.svg)](https://github.com/floatingpurr/covid-piemonte/actions/workflows/piemonte-data-scraper.yml)
