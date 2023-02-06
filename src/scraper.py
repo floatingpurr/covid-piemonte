@@ -4,7 +4,7 @@ import struct
 from collections import OrderedDict
 import os
 
-from utils import fetch_data, get_token
+from utils import fetch_data, get_token, jsonify
 
 PROXY_HOST = os.environ.get('PROXY_HOST', '')
 API_USER = os.environ.get('API_USER', '')
@@ -42,7 +42,7 @@ def get_geo_data(proxy_url="", jwt=""):
 
     return_dict = {}
 
-    for item in r.json()["features"]:
+    for item in jsonify(r)["features"]:
         return_dict[item["properties"]["COMUNE_IST"]] = {
             "comune": item["properties"]["COMUNE_NOM"],
             "provincia": PROV[
@@ -97,7 +97,7 @@ def get_metadata(proxy_url="", jwt=""):
     Gets metadata of the retrieved collection
     """
     r = fetch_data(URLS["meta"], proxy_url, jwt)
-    meta_string = r.json()["ultimo_aggiornamento"]
+    meta_string = jsonify(r)["ultimo_aggiornamento"]
     date = re.search(r"\d{2}.\d{2}.\d{4}", meta_string)
     time = re.search(r"\d{2}:\d{2}", meta_string)
 

@@ -1,4 +1,5 @@
 import requests
+import json
 
 
 def get_token(login_url, username, password):
@@ -22,3 +23,19 @@ def fetch_data(data_url, proxy_url="", jwt=""):
         headers={"Content-Type": "application/json", "Authorization": f"Bearer {jwt}"},
         json={"url": data_url},
     )
+
+
+def jsonify(data):
+    """Takes a string, returns a parsed JSON.
+    Takes ancoding problems into account
+
+    Args:
+        string (str): original data
+    """
+
+    try:
+        return data.json()
+    except json.JSONDecodeError:
+        # Catch the Unexpected UTF-8 BOM error
+        data.encoding='utf-8-sig'
+        return data.json()
