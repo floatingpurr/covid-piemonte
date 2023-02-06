@@ -17,13 +17,13 @@ jobs:
     steps:
       # Check out a copy of this repository on the ubuntu-latest machine
       - name: Checkout code
-        uses: actions/checkout@v2
+        uses: actions/checkout@v3
 
       # Set up Python
       - name: Set up Python
-        uses: actions/setup-python@v2
+        uses: actions/setup-python@v4
         with:
-          python-version: '3.9'
+          python-version: '3.11'
 
       # Install dependencies from requirements.txt
       - name: Install dependencies
