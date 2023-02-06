@@ -1,6 +1,4 @@
 import requests
-import json
-
 
 def get_token(login_url, username, password):
 
@@ -35,7 +33,7 @@ def jsonify(data):
 
     try:
         return data.json()
-    except json.JSONDecodeError:
+    except requests.exceptions.JSONDecodeError:
         # Catch the Unexpected UTF-8 BOM error
         data.encoding='utf-8-sig'
         return data.json()
